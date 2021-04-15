@@ -216,5 +216,8 @@ footer p{
     }
     .menu img{
         display: block;
-    }
+    }.cabecera h1{
+    
+    font-size: 1.5em;
+}
 }
